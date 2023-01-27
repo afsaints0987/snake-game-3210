@@ -4,6 +4,13 @@ body {
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    background-color: #282c34;
+    color: #fff;
+}
+
+#board {
+    border: 1px solid blue;
+    box-shadow: 1px 1px 5px #f0f0f0
 }
 
 
